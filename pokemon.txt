@@ -1,0 +1,78 @@
+export const nineteen = ["Darkrai", "Dragapult", "Iron Valiant", "Latios"]
+
+export const eighteen = ["Chi-Yu", "Gouging Fire", "Great Tusk", "Greninja", "Iron Bundle", "Kyurem", "Latias", "Meowscarada"]
+
+export const seventeen = ["Baxcalibur", "Cinderace", "Enamorus-Incarnate", "Garchomp", "Iron Boulder", "Landorus-Incarnate", "Roaring Moon", "Sneasler", "Tornadus-Therian", "Weavile"]
+
+export const sixteen = ["Annihiilape", "Excadrill", "Galarian Slowking", "Gholdengo", "Gliscor", "Hisuian Samurott", "Iron Treads", "Konmo-o", "Landorus-Therian", "Manaphy", "Ogergon-Heartflame",
+"Quaquaval", "Ursaluna-Bloodmoon", "Walking Wake"]
+
+export const fifteen = ["Celfable", "Dragonite", "Galarian Zapdos", "Gengar", "Heatran", "Infernape", "Iron Crown", "Iron Moth", "Jirachi", "Keldeo", "Mamoswine", "MandiBuzz", "Mew", "Necrozma",
+"Rotom-Wash", "Slowking", "Tyranitar", "Ursaluna", "Zapdos"]
+
+export const fourteen = ["Alolan Ninetales", "Archaludon", "Azumadrill", "Ceruledge", "Corviknight", "Deoxys-Defense", "Hoopa-Unbound", "Hydreigon", "Iron Hands", "Kingambit","Lycanroc-Dusk", "Metagross",
+"Ogerpon-Wellspring", "Primarina", "Raging bolt", "Raikou", "Rillaboom", "Salamence", "Scizor", "Slowbro", "Terrakion", "Thundurus-Incarnate", "Thundurus-Therian","Ting-Lu", "Volcarona"]
+
+export const thirteen = ["Empoleon", "Espathra", "Glimmora", "Gothitelle", "Grimmsnarl", "Hawlucha", "Haxorus", "Hisuian Arcanine", "Hisuian Goodra", "Hisuian Lilligant", "Hisuian Zoroark","Iron Jugulis",
+"Iron Leaves", "Kleavor", "Krookodile", "Mienshao", "Munkidori", "Ogerpon-Cornerstone", "Ogerpon-Teal", "Okidogi", "Reuniclus", "Skarmory", "Skeledierge", "Slither Wing","Suicune", "Swampert",
+"Zarude"]
+
+export const twelve = ["Armarouge", "Azelf", "Breloom", "Cobalion", "Conkeldurr", "Crawdaunt", "Cresselia", "Enamorus-Therian", "Feraligatr", "Galarian Moltres", "Galarian Weezing", "Gardevoir",
+"Hippowdon", "Kingdra", "Milotic", "Sandy Shocks", "Scream Tail", "Sylveon", "Tentacruel", "Toxapex", "Volcanion"]
+
+export const eleven = ["Alolan Muk", "Arcanine", "Barraskewda", "Clodsire", "Dondozo", "Donphan", "Entei", "Garganacl", "Hatterene", "Hydrapple", "Pelipper", "Porygon-Z", "Redidrago", "Ribombee",
+"Rotom-Heat", "Snorlax", "Torkoal"]
+
+export const ten = ["Amoonguss", "Blastoise", "Cloyster", "Dragalge", "Dudunsparce", "Dugtrio", "Espeon", "Florges", "Galarian Slowbro", "Gallade", "Gyarados", "Heracross", "Incineroar", "Inteleon",
+"Klefki", "Lokix", "Magnezone", "Mesprit", "Mimikyu","Minior", "Moltres", "Ninetales", "Noivern", "Pawmot", "Politoed", "Rhyperior", "Rotom-Mow", "Salazzle", "Scrafty", "Serperior", "Shaymin",
+"Smeargle", "Talonflame", "Tornadus-Incarnate","Toxtricity", "Uxie", "Vaporeon", "Venusaur", "Virizion", "Wo-chien", "Yanmega"]
+
+export const nine = ["Basculegion-Male", "Basculegion-Female", "Blaziken", "Cetitan", "Chandelure", "Delphox", "Diancie", "Duraludon", "Emboar", "Fezandipiti", "Flygon", "Galvantula", "Gastrodon", 
+"Goodra", "Hisuian Braviary", "Hitmonlee", "Iron Thorns", "Jolteon", "Kilowattrel", "Lucario", "Magmortar", "Malamar", "Meloetta", "Paldean Tauros Aqua", "Regielki", "Revavroom", "Sceptile",
+"Sinistcha", "Staraptor", "Umbreon", "Zoroark"]
+
+export const eight = ["Alolan Exeggutor", "Alomomala", "Araquanid", "Bisharp", "Blissey", "Brambleghast", "Brute Bonnet", "Chesnaught", "Comfey", "Cyclizar", "Decidueye", "Drednaw", "Electivire",
+"Froslass", "Galarian Articuno", "Glastrier", "Hitmontop", "Indeedee-Male", "Maushold", "Mismagius", "Overqwil", "Paldean Tauros Blaze", "Passimian", "Poltageist", "Porygon2", "Registeel",
+"Sandaconda", "Tauros", "Tinkaton", "Tsareena", "Venomoth", "Vivillion"]
+
+export const seven = ["Abomasnow", "Alcremie", "Alolan Raichu", "Alolan Sandslash", "Chansey", "Cinccino", "Copperajah", "Elektross", "Flamigo", "Floatzel", "Forretress", "Golurk", "Hariyama",
+"Hisuian Electrode", "Hisuian Qwuilfish", "Hitmonchan", "Hoopa", "Houndstone", "Indeedee-Female", "Lycanroc-Midday", "Mudsdale", "Piloswine", "Poliwrath", "Primeape", "Quagsire",
+"Rhydon", "Scyther", "Toedscruel", "Torterra", "Weezing"]
+
+export const six = ["Ambipom", "Bellibolt", "Braviary", "Bronzong", "Duosion", "Gilgar", "Hisuian Decidueye", "Hisuian Typhlosion", "Honchkrow", "Lanturn", "Lapras", "Lilligant", "Ludicolo", "Lurantis",
+"Magneton", "Medicham", "Oricorio", "Orthworm", "Qwilfish", "Regirock", "Rotom-Frost", "Scovillain", "Shiftry", "Sneasel", "Toxicroak", "Ursaring" , "Vikavolt", "Whimsicott", "Zebstrika"]
+
+export const five = ["Basculin", "Beartic", "Bellossom", "Bombirdier","Charizard", "Clawitzer", "Coalossal", "Combusken", "Cryogonal", "Ditto", "Dodrio", "Drifblim", "Electabuzz", "Exeggutor", "Farigiraf",
+"Frosmoth", "Grafaiai", "Granbull", "Gurdurr","Hisuian Sneasel", "Magmar", "Masquerain", "Muk", "Paldean Tauros", "Palossand", "Pincurchin", "Raichu", "Regice", "Regigigas", "Rotom", "Skuntank",
+"Typhlosion", "Veluza", "Victreebel","Vileplume"]
+
+export const four = ["Alolan Persian", "Altaria", "Appletun", "Arboliva", "Atricuno", "Avalugg", "Bastiodon", "Bruxish", "Cramorant", "Crocalor", "Dachsbun", "Dusknoir", "Electrode", "Falinks", "Flareon",
+"Glaceon", "Gothorita", "Hisuian Avalugg", "Leavanny", "Luxray", "Mabosstiff", "Meganium", "Meowstic", "Morpeko", "Noctowl", "Pyroar", "Rampardos", "Rotom-Fan", "Sableye", "Sandslash", "Servine",
+"Swanna", "Tatsugiri", "Trevenant", "Zangoose"]
+
+export const three = ["Alolan Dugtrio", "Arbox", "Ariados", "Cacturne", "Clefairy", "Carbominable", "Dipplin", "Dunsparce", "Eiscue",  "Gogoat", "Golduck", "Greedent",
+"Haunter", "Houndoom", "Klawf", "Leafeon", "Lycanroc-Midnight", "Naclstack", "Probopass", "Raboot", "Samurott", "Sawsbuck", "Spidops", "Spiritomb", "Thwackey", "Toucannon", "Whiscash"]
+
+export const two = ["Alolan Golem", "Ampharos", "Banette", "Camerupt", "Carbink", "Chimecho", "Dewgong", "Dewpider", "Dusclops", "Flapple", "Fraxure", "Frogadier", "Furret", "Girafarig", "Golem", "Grotle",
+"Grumpig", "Hisuian Silggoo", "Illumise", "Komala", "Magcargo", "Mareanie", "Metang", "Mightyena", "Minun", "Misdreavus", "Monferno", "Morgrem", "Munchlax", "Oinkologne", "Oranguru", "Perrserker",
+"Persion", "Phione", "Pignite", "Plusle", "Quilladin", "Rabsca", "Seadra", "Slaking", "Squawkabilly", "Stonjourner", "Swalot", "Torracat", "Trapinch", "Vespiquen", "Volbeat", "Vullaby", "Wartortle",
+"Wigglytuff", "Wugtrio", "Wyrdeer"]
+
+export const one = ["Aipom", "Alolan Diglett", "Alolan Geodude", "Alolan Graveler", "Alolan Grimer", "Alolan Meowth", "Alolan Sandshrew", "Alolan Vulpix", "Applin", "Arctibax",
+"Arrokuda", "Axew", "Azurill", "Bagon", "Barboach", "Bayleef", "Beldum", "Bellsprout", "Bergmite", "Blitzle", "Bonsly", "Bounsweet", "Braxien", "Bramblin", "Brionne", "Bronzor", "Buizel",
+"Bulbasaur", "Cacnea", "Calyrex", "Capsakid", "Carkoal", "Cetoddle", "Charcadet", "Charjabug", "Charmander", "Charmeleon", "Chespin", "Chewtle", "Chikorita", "Chimchar", "Chinchou", "Chingling",
+"Clauncher", "Cleffa", "Combee", "Corphish", "Corvisquire", "Cosmoem", "Cosmog", "Cottonee", "Crabrawler", "Cranidos", "Croagunk", "Croconaw", "Cubchoo", "Cufant", "Cutiefly", "Cyndaquil",
+"Dartrix", "Dedenne", "Deerling", "Deino", "Delibird", "Dewott", "Diglett", "Doduo", "Dolliv", "Dragonair", "Drakloak", "Dratini", "Dreepy", "Drifloon", "Drilbur", "Drizzile", "Drowzee", "Ducklett",
+"Duskull", "Eelektrik", "Eevee", "Ekans", "Elekid", "Espurr", "Exeggcute", "Feebas", "Fennekin", "Fidough", "Finizen", "Finneon", "Flaffy", "Flabebe", "Fletchfinder", "Fletchling", "Flittle", "Floette",
+"Floragato", "Fomantis", "Foongus", "Frigibax", "Froakie", "Fuecoco", "Gabite", "Galarian Meowth", "Galarian Slowpoke", "Gastly", "Geodude", "Gible", "Gimmighoul", "Glalie", "Glimmet", "Gloom", "Golett",
+"Goomy", "Gothita", "Graveler", "Greavard", "Grimer", "Grookey", "Grovyle", "Growlithe", "Grubbin", "Gulpin", "Gumshoos", "Hakamo-o", "Happiny", "Hatenna", "Hattrem", "Hippoptas", "Hisuian Growlithe",
+"Hisuian Voltorb", "Hisuian Zorua", "Hoothoot", "Hoppip", "Horsea", "Houndour", "Hypno", "Igglybuff", "Impidimp", "Inkay", "Ivysaur", "Jangmo-o", "Jigglypuff", "Joltik", "Jumpluff", "Kirlia", "Koffing",
+"Kricketot", "Kricketune", "Krokorok", "Kubfu", "Lampent", "Larvesta", "Larvitar", "Lechonk", "Litleo", "Litten", "Litwick", "Lombre", "Lotad", "Lumineon", "Luvdisc", "Luxio", "Magby", "Magikarp", "Magnemite",
+"Makuhita", "Mankey", "Mareep", "Marill", "Marshstomp", "Maschiff", "Meditite", "Meowth", "Mienfoo", "Milcery", "Minccino", "Mudbray", "Mudkip", "Murkrow", "Nacli", "Noibat", "Nosepass", "Numel", "Nuzleaf",
+"Nymble", "Oddish", "Pachirisu", "Paldean Wooper", "Pawmi", "Pawmo", "Pawniard", "Petilil", "Phanpy", "Phantump", "Pichu", "Pikachu", "Pikipek", "Pineco", "Piplup", "Poliwag", "Poliwhirl", "Poltchaceist",
+"Poochyena", "Popplio", "Porygon", "Prinplup", "Psyduck", "Pupitar", "Quaxly", "Quaxwell", "Quilava", "Ralts", "Rellor", "Rhyorn", "Riolu", "Rockruff", "Rolycoly", "Rookidee", "Rowlet", "Rufflet", "Salandit",
+"Sandile", "Sandshrew", "Sandygast", "Scatterbug", "Scorbunny", "Scraggy", "Seedot", "Seel", "Sentret", "Seviper", "Sewaddle", "Shelgon", "Shellder", "Shellos", "Shieldon", "Shinx", "Shroodle", "Shroomish",
+"Shuppet", "Silicobra", "Sinistea", "Skiddo", "Skiploom", "Skrelp", "Skwovet", "Slakoth", "Sliggoo", "Slowpoke", "Slugma", "Smoliv", "Snivy", "Snom", "Snorunt", "Snover", "Snubbull", "Sobble", "Solosis",
+"Spewpa", "Spinarak", "Spoink", "Sprigatito", "Squirtle", "Stantler", "Staravia", "Starly", "Steenee", "Stunky", "Sudowoodo","Sunflora", "Sunkern", "Surskit", "Swablu", "Swadloon", "Swinub", "Tadbulb",
+ "Tandemaus", "Tarountula", "Teddiursa", "Tentacool", "Tepig", "Timburr", "Tinkatink", "Tinkatuff", "Toedscool", "Torchic", "Totodile", "Toxel", "Treecko", "Tropius", "Trumbeak", "Turtwig", "Tynamo",
+  "Tyrogue", "Varoom", "Venonat", "Vibrava", "Vigoroth", "Voltorb", "Vulpix", "Wattrel", "Weepinbell", "Wiglett", "Wingull", "Wooper", "Yanma", "Yungoos", "Zorua", "Zweilous"]

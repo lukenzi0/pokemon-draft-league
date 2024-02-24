@@ -1,0 +1,22 @@
+{
+  "name": "draftleague",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "ejs": "^3.1.9",
+    "install": "^0.13.0",
+    "mysql2": "^3.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
